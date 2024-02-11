@@ -1,0 +1,167 @@
+Tell About Your Self
+====================
+
+* My Name is logeshwaran
+
+* Rightnow I am working as a Manual and Automation Tester in KGISL
+
+* I have overall 7 years in IT Industry and Relevant Experience in Testing 5 Years and 2 Years Release Management System
+
+* I have experience in Manual Testing and Automation Testing and API testing
+
+* In Automation Testing, By Using Selenium Webdriver We will automate the web applications with BDD Cucumber Framework and Corejava
+
+* In Manual Testing, We will testing Functional and Not Functional and Regression and Smoke and Sanity and Adhov and retesting the web applications
+
+* In Api Testing, I will test Functionality and performance of the Applications by using developed APIs in Postman
+
+* In Framework, I have Experience in Cucumber, Testng, Junit, POM, and Datadriven
+
+* During Manaul Testing and API testing , I will check the data in database level by using SQL Query
+
+* During Manaul Testing, If I find any issue, I will log this issue in JIRA board
+
+* We will maintain the automation scripts in GIT repo and have knowledge about GIT
+
+* I have experince in Maven Project and have knowledge in Maven
+
+* we are working in Agile Scrum wise so have knowledge in Agile
+
+
+
+Tell about your Project
+=======================
+
+Project Name 	: Capital Market
+Domain		: Banking
+Client		: JPM and UBS
+
+* This is Trading Project
+
+* Users will open Trading account and Demat account and saving account By broker
+
+* By using broker user will buy and sell trades in stock market
+
+* Once Contract done by Buyer and Seller in T Day which means Trading Day and T+1 Stocks and Settlement will Recocile and T+2 Stocks and Settlements will settle to Buyer and Seller    	
+
+* Users Like MAKER CHECKER BOTH ADMIN
+
+
+Roles and Responsibilities in the Project
+========================================
+
+* Scrum Master will assign the story based tasks like Screens, Reports, Transaction Screens in Jira board
+
+* Analyzing Business Requirment
+
+* I will Prepare the Testcase by using Excel sheet, Once done I will Share the Testcase to My Manager for review ,once done
+
+* I will execute the testcase one by one, While Testing If I find Any issues check with developer and I will raise the bug in JIRA board
+
+* Again Retesting, Regression, Smoke Testing, and Functional Testing will do
+
+* once Done , i will Create a Frame work structure
+
+* Create feature file, definition file, Page object, common method
+
+* exceute the script in testing enviorment
+
+* Once done Execution, Collect source code from another tester and mve to git repo
+
+
+
+Tell about your Project
+=======================
+
+Project Name 	: Policy Management
+Domain		: Telecom Domain
+Client		: Verison
+
+
+* This is Policy maintainance project
+
+* The Policy Management system provides a support for creating and managing policies across multiple VNFS and Service. 
+
+* Policy management system is used customer/partners to query, create, update, activate, deactivate, modify and delete policies
+
+   
+
+Roles and Responsibilities in the Project
+========================================
+
+* Noted
+
+Tell about your Project
+=======================
+
+Project Name 	: VOIZTRAIL ANALYTICS - SPEECH ANALYTICS
+Domain		: Telecom Domain
+Client		: Hawes
+
+* This is Speech Analytics Project
+
+* VT Analytics is a tool where we can have access the calls which need to be audited. 
+
+* Unlike other call auditing services, we just don’t do AUDITING but we mainly do ANALYZING which helps us to predict future trends. 
+
+* This solution is developed by utilizing a combination of open source and proprietary software. 
+
+* The solution will require software to audit and analyse the calls.
+
+
+Roles and Responsibilities in the Project
+========================================
+
+Step 1: Will Receive Mail from Developer
+
+Jira Id
+Description
+Priority
+Branch Name
+Release Query
+
+
+Step 2: 5 Products there VT Clould,VTSN,VTDX,VT Recorder,AIBOT
+
+Pull the source code Branch from development
+
+Manual Testing 
+
+if Getting Bug = Push the code from SC Branch to development = Developer Will check
+If Getting not bug = Testing Completed = move the Source code to development
+
+
+Step 3: In Git, Verify the Last commit and latest commit with developer
+
+if Receive Conflict Resolve with developer
+
+
+Step 4 : Prepare Release Document for Release
+
+Last Commit Id
+
+Latest Commit Id
+
+Release Query
+
+Release Jira ID with Description
+
+
+Step 5 : Prepare Mail Confirmation for Release 
+
+Step 1: Prepare Release Details in Mail to Send Manager for Approve
+Step 2: Received Approved Mail from Manager
+Step 3: ForWard these mail to ICT Team
+Step 4 : Received Mail from ICT team with Path
+Step 5 : Verify that path and Approved
+Step 6: ICt Team will forward these mail to Release Team and DB team
+Step 7: Release Team Deployed Latest source to Master like Production Server and DB team Executed Latest Query
+
+Step 6: Once Released these jira ids in Master,I will check UAT level and Live Server Level
+
+Step 7: Once Testing Done , I will prepare Post Release Confirmation Document like Released or Not and Testing Scenario Document 
+
+Upload These Document in JIRa board and Updated these Status in JIRA
+ 
+
+

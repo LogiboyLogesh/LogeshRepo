@@ -1,0 +1,600 @@
+Airtel
+======
+
+Mobile		: 8870970978
+
+
+My Jio
+======
+
+Mobile		: 9003737129
+
+
+Axis Bank
+=========
+
+URL		: https://omni.axisbank.co.in/axisretailbanking/
+Customer ID	: 904139739
+Login ID	: 904139739
+Password	: LogeshRuba@5252
+MPIN		: 155252
+Account No	: 921010003623623
+IFSC Code	: UTIB0000123		(Old)
+Branch Code	: 000123		(Old)
+IFSC Code	: UTIB0003090
+Branch Code	: 003090
+Debit Pin	: 5252
+Credit Pin	:  
+
+Axis Mobile
+===========
+
+MPIN		: 155252
+
+
+
+HDFC Bank
+=========
+
+URL		: https://netbanking.hdfcbank.com/netbanking/
+Customer ID	: 129562574
+User ID		: 129562574
+Password	: Kgisl@5252
+IPIN		: Kgisl@5252
+Account No	: 50100281028037
+IFSC Code	: HDFC0000795		(Old)
+Branch Code	: 000795		(Old)
+IFSC Code	: HDFC0002231
+Branch Code	: 002231
+Debit Pin	: 7031
+Credit Pin	: 5252
+
+HDFC Bank
+=========
+
+QAP		: 5252
+Password	: LogeshRuba@5252
+
+
+SBI Bank
+========
+
+URL		: https://retail.onlinesbi.sbi/retail/login.htm
+Username	: LOGIBOY
+Password	: Meyyazhagan@5252
+ProfilePassword	: Amaravathi@5252
+Account No	: 30490029844
+IFSC Code	: SBIN0007588
+Branch Code	: 007588
+Debit Pin	: 5252
+Credit Pin	: 5252
+
+
+YONO SBI
+========
+
+MPIN		: 199106
+
+
+SBI Card
+========
+
+User ID		: LOGESHWARAN M
+Password	: Meyyazhagan@5252
+MPIN		: 5252
+
+
+
+KVB Bank
+========
+
+URL		: https://www.kvbin.com/B001/ENULogin.jsp#
+Customer ID	: 16378713
+User ID		: 16378713
+Password	: LogiRuba52
+TPIN		: 1357
+Account No	: 1143155000314835
+IFSC Code	: KVBL0001143
+Branch Code	: 001143
+Debit Pin	: 5252
+Credit Pin	:
+
+
+KVB DLite
+=========
+
+Login Pin	: 525252
+MPIN		: 5252
+
+
+Google Pay
+==========
+
+Mobile		: 8870970978
+Password	: 5252
+
+SBI UPI PIN	: 525252
+
+HDFC UPI PIN	: 5252
+
+AXIS UPI PIN	: 525252
+
+Phone Pe
+========
+
+Mobile		: 8870970978
+Password	: 5252
+
+SBI UPI PIN	: 525252
+
+HDFC UPI PIN	: 5252
+
+AXIS UPI PIN	: 525252
+
+
+Paytm
+=====
+
+Mobile		: 8870970978
+Password	: 5252
+
+SBI UPI PIN	: 525252
+
+HDFC UPI PIN	: 5252
+
+AXIS UPI PIN	: 525252
+
+Personal Details
+================
+
+AADHAAR CARD	: 4307 4391 0775
+D LICENCE	: TN47 20090007058	(Old)
+D LICENCE	: TN47 Y20220001564	(New)
+VOTER ID	: UHV0330803
+PAN CARD	: AEYPL7870D
+PASSPORT NO	: T4606436
+
+
+Amazon
+======
+
+Mobile		: 8870970978
+Email		: logeshwaran.the@gmail.com
+Password	: LogeshRuba@5252
+
+
+Flipkart
+========
+
+Mobile		: 8870970978
+Email		: logeshwaran.the@gmail.com
+Password	: LogeshRuba@5252
+
+
+Ajio
+====
+
+Mobile		: 8870970978
+Email		: logeshwaran.the@gmail.com
+Password	: LogeshRuba@5252
+
+
+Tata CLiQ
+=========
+
+Mobile		: 8870970978
+Email		: logeshwaran.the@gmail.com
+
+
+Max
+===
+
+Mobile		: 8870970978
+
+
+Whats App
+=========
+
+Mobile		: 8870970978
+PIN		: 525252
+Email		: logeshwaran.the@gmail.com
+
+
+Google Chrome Browser
+=====================
+
+URL		: https://www.irctc.co.in/nget/train-search
+Username	: mechlogi
+Password	: LogeshRuba@5252
+
+URL		: https://www.tnstc.in/TNSTCOnline/jqreq.do?hiddenAction=Login
+Username	: mechlogi
+Password	: LogeshRuba5252
+
+URL		: https://tirupatibalaji.ap.gov.in/#/login
+Email		: logeshwaran.the@gmail.com
+Password	: LogeshRuba@5252
+
+URL		: https://unifiedportal-mem.epfindia.gov.in/memberinterface/
+UAN No		: 101435053663
+Password	: RubaLogesh@5252
+UAN No		: 100431653019
+Password	: LogeshRuba@5252
+
+URL		: https://passbook.epfindia.gov.in/MemberPassBook/Login
+UAN No		: 101435053663
+Password	: RubaLogesh@5252
+UAN No		: 100431653019
+Password	: LogeshRuba@5252
+
+URL		: https://www.facebook.com/login/
+Mobile		: 8870970978
+Email		: logeshwaran.the@gmail.com
+Password	: LogeshRuba@5252
+
+URL		: https://www.karurcinemas.com/
+Mobile		: 8870970978
+Email		: logeshwaran.the@gmail.com
+Password	: LogeshRuba@5252
+
+URL		: https://eportal.incometax.gov.in/iec/foservices/#/login
+PAN		: AEYPL7870D
+AADHAAR CARD	: 4307 4391 0775
+Password	: LogeshRuba@52
+
+URL		: https://licindia.in/Home/Pay-Premium-Online
+Policy Number	: 757339259
+DOB		: 02/06/1991
+Mobile		: 887970978
+Amount		: 13312
+Email		: logeshwaran.the@gmail.com
+Payment Method	: Half Yearly
+
+
+URL		: https://licindia.in/Home/Pay-Premium-Online
+Policy Number	: 306073600
+DOB		: 02/06/1991
+Mobile		: 887970978
+Amount		: 5490
+Email		: logeshwaran.the@gmail.com
+Payment Method	: Monthly
+
+
+URL		: https://ebiz.licindia.in/D2CPM/#Login
+User ID		: logeshwaran.the@gmail.com
+Email		: logeshwaran.the@gmail.com
+Mobile		: 887970978
+Password	: LogeshRuba@5252
+DOB		: 02/06/1991
+
+URL		: https://www.woodlandworldwide.com/
+Email		: logeshwaran.the@gmail.com
+Password	: LogeshRuba@5252
+
+
+Email Details
+=============
+
+Email		: logeshwaran.the@gmail.com
+Password	: LogeshRuba@5252
+Type		: Own Use
+Mobile		: 8870970978
+
+Email		: logeshwaran1552@gmail.com
+Password	: LogeshRuba@5252
+Type		: Temporary Use
+Mobile		: 8870970978
+
+Email		: logesh52thennilai@gmail.com
+Password	: LogeshRuba@5252
+Type		: CTS Use
+Mobile		: 8870970978
+
+Email		: logeshwaranmeyyazhagan@gmail.com
+Password	: LogeshRuba@5252
+Type		: KGISL Use
+Mobile		: 9003737129
+
+
+PF Details
+==========
+
+KGISL
+=====
+
+UAN No		: 101435053663
+PF No		: CB/CBE/0034310/000/0019635
+MEMBER ID	: 0019635
+
+CTS
+===
+
+UAN No		: 101435053663
+PF No		: TN/MAS/0031309/000/1768143
+MEMBER ID	: 1768143
+
+
+MMPL
+====
+
+UAN No		: 100431653019
+PF No		: TN/AMB/0040320/000/0000229
+MEMBER ID	: 0000229
+
+
+
+Hotstar
+=======
+
+Mobile		: 8870970978
+PIN		: 5252
+
+
+SonyLiv
+=======
+
+Mobile		: 8870970978
+Email		: logeshwaran.the@gmail.com
+PIN		: 5252
+
+
+Prime Video
+===========
+
+Mobile		: 8870970978
+Email		: logeshwaran.the@gmail.com
+Password	: LogeshRuba@5252
+
+
+
+Aha
+===
+
+PIN		: 5252
+Mobile		: 8870970978
+Email		: logeshwaran.the@gmail.com
+Password	: LogeshRuba@5252
+
+
+ZEE5
+====
+
+Mobile		: 8870970978
+Email		: logeshwaran.the@gmail.com
+Password	: LogeshRuba@5252
+
+Mobile		: 9003737129
+Email		: logeshwaranmeyyazhagan@gmail.com
+Password	: LogeshRuba@5252
+
+
+NETFLIX
+=======
+
+Mobile		: 9080845483
+Email		: santhiyameyyazhagan@gmail.com 
+Password	: Satsan@200
+
+
+Airtel Xstream
+==============
+
+Mobile		: 8870970978
+
+
+SUNNXT
+======
+
+Email		: logeshwaran.the@gmail.com
+Password	: LogeshRuba@5252
+PIN		: 5252
+
+
+MX Player
+=========
+
+Mobile		: 8870970978
+
+
+Jio TV
+======
+
+Mobile		: 9003737129
+
+
+Jio Cinema
+==========
+
+Mobile		: 9003737129
+
+
+Ola
+===
+
+Mobile		: 8870970978
+Password	: LogeshRuba@5252
+
+
+Uber
+====
+
+Mobile		: 8870970978
+Password	: LogeshRuba@5252
+
+
+RedBus
+======
+
+Mobile		: 8870970978
+
+
+Make My Trip
+============
+
+Mobile		: 8870970978
+Email		: logeshwaran.the@gmail.com
+Password	: LogeshRuba@5252
+
+Mobile		: 9003737129
+Email		: logeshwaranmeyyazhagan@gmail.com
+Password	: LogeshRuba@5252
+
+
+Book My Show
+============
+
+Mobile		: 8870970978
+
+
+
+Karur Cinemas
+=============
+
+Email		: logeshwaran.the@gmail.com
+Password	: LogeshRuba@5252
+Mobile		: 8870970978
+
+
+Swiggy
+======
+
+Mobile		: 8870970978
+
+
+Zomato
+======
+
+Mobile		: 8870970978
+
+
+
+Indian Oil One
+==============
+
+Login Mobile	: 9345669750
+Login Email	: logeshwaran.the@gmail.com 
+Login Password	: LogeshRuba@5252
+Profile Mobile	: 9003737129
+Profile Email	: logeshwaranmeyyazhagan@gmail.com
+Delivery Mobile	: 8870970978
+
+
+Sun Direct
+==========
+
+Mobile		: 8870970978
+CDSN No		: 82099401760
+CR-ID		: CR-27478116
+Password	: LogeshRuba@5252
+
+
+DIZO
+====
+
+Email		: logeshwaran.the@gmail.com
+Password	: LogeshRuba5252
+
+
+NextGen mParivahan
+==================
+
+Mobile		: 8870970978
+MPIN		: 525252
+
+
+Instagram
+=========
+
+Mobile		: 8870970978
+Email		: logeshwaran.the@gmail.com
+Username	: logeshwaranruba
+Name		: Logeshwaran M
+Password	: LogeshRuba@5252
+
+
+Telegram
+========
+
+Mobile		: +91 8870970978
+Username	: @Logiboy
+Password	: LogeshRuba@5252
+PIN		: 5252
+Email		: logeshwaran.the@gmail.com
+
+
+
+Busuu
+=====
+
+Email		: logeshwaran.the@gmail.com
+Password	: LogeshRuba@5252
+
+
+Rummy Circle
+============
+
+Mobile		: 8870970978
+Username	: Logiboy5252
+Email		: logeshwaran.the@gmail.com
+Password	: Logesh@5252
+
+Firstcry
+========
+
+Email		: logeshwaran.the@gmail.com
+Mobile		: 8870970978
+Password	: LogeshRuba@5252
+
+
+LIC Digital
+===========
+
+User ID		: logeshwaran.the@gmail.com
+Email		: logeshwaran.the@gmail.com
+Mobile		: 887970978
+Password	: LogeshRuba@5252
+DOB		: 02/06/1991
+MPIN		: 5252
+
+
+IL Take Care
+============
+
+Mobile		: 8870970978 
+
+
+
+TNEB
+====
+
+URL		: https://www.tnebnet.org/qwp/qpay?st=
+Consumer No	: 030300013435
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

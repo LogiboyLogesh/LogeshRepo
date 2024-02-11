@@ -1,0 +1,232 @@
+Barracuda VPN Client
+====================
+
+KG-GSS
+
+Username	: 25061
+Password	: Gss$25061
+Reset Password	: http://10.100.2.2/cgi-bin/ngflocalpasswd
+
+
+New Volume D
+============
+
+Password	: kgisl2019
+
+
+Computer
+========
+
+Username	: logeshwaran.m
+Password	: LogeshRuba@5252
+
+
+Talent X
+========
+
+KGISL Technologies Private Limited
+
+URL		: https://talentx.kgisl.com/Home/Index
+Username	: logeshwaran.m
+Password	: LogeshRuba@5252
+
+
+Talent X Mobile
+===============
+
+URL		: https://mtalentx.kgisl.com/talentx/web/site/login
+Username	: logeshwaran.m
+Password	: LogeshRuba@5252
+
+
+Outlook Mail
+============
+
+URL		: https://outlook.office.com/mail/
+Username	: logeshwaran.m@kgisl.com
+Password	: LogeshRuba@5252
+
+
+
+JIRA
+====
+
+URL		: https://jira.kgisl.com/login.jsp?permissionViolation=true&os_destination=%2Fbrowse%2FDOLP_10845-28&page_caps=&user_role=
+Username	: logeshwaran.m
+Password	: LogeshRuba@5252
+
+
+Microsoft Teams
+===============
+
+Username	: logeshwaran.m@kgisl.com
+Password	: LogeshRuba@5252
+
+
+Cafeteria - Sales Portal
+========================
+
+URL		: https://cafeteria.kggroup.com/
+AD Username	: logeshwaran.m
+Password	: 02/06/1991
+
+
+GIT
+===
+
+PROJECT URL	: http://gitlab-bcp.kgisl.com/DolphinV2/thai-set/set_automation
+URL		: http://gitlab-bcp.kgisl.com/users/sign_in
+LDAP Username	: logeshwaran.m
+Password	: LogeshRuba@5252
+
+
+Shared Path
+===========
+
+URL		: https://kgislgroup-my.sharepoint.com/personal/logeshwaran_m_kgisl_com/_layouts/15/onedrive.aspx
+
+
+
+Global Protect
+==============
+
+Username	: OUTSOURCE1273
+Password	: Dolphin#123(GoogleAuthenticatorPassword)
+
+
+Database
+========
+
+Hostname / IP	: 172.25.90.13
+Port		: 3306
+Username	: THAISETBOAPPQA
+Password	: Thaiset#123
+URL		: jdbc:mysql://172.25.90.13:3306/THAIQATENANTBROKER2NEW?autoReconnect=true&useSSL=false&useUnicode=yes&characterEncoding=UTF-8
+
+
+Hostname / IP	: 172.25.90.13
+Port		: 3306
+Username	: THAISETBOAPP
+Password	: Thaiset#123
+URL		: jdbc:mysql://172.25.90.13:3306/THAIDEMOBROKER?autoReconnect=true&useSSL=false&useUnicode=yes&characterEncoding=UTF-8
+
+
+
+C Blue
+======
+
+User ID		: 0172_TTC_TR1		0172_TTC_TR2		0172_TTC_TR3
+Password	: ffffff@2		ffffff@2		ffffff@2
+Member ID	: 0172
+
+
+Service Desk
+============
+
+URL		: https://servicedesk.kgisl.com/support/login
+
+
+Update Password
+===============
+
+URL		: https://adfs.kgisl.com/adfs/portal/updatepassword/
+Email		: logeshwaran.m@kgisl.com
+
+
+VPN Internet Connect
+====================
+
+URL		: http://10.90.100.2:2280/cportal/ip/user_login.php?url=http://www.msftconnecttest.com/redirect
+Username	: logeshwaran.m
+Password	: LogeshRuba@5252
+
+
+Local Links
+===========
+
+DEMO URL	: https://demothaiset.kgisl.com/login
+Username	: MAKERLOGI,	CHECKERLOGI,	BOTHLOGI,	ADMINLOGI
+Password	: Gss@12,	Gss@12,		Gss@12,		Gss@12
+
+
+B1 CITI URL	: https://b1qathaiset.kgisl.com/login
+Username	: MAKERLOGI,	CHECKERLOGI,	BOTHLOGI,	ADMINLOGI
+Password	: Gss@12,	Gss@12,		Gss@12,		Gss@12
+
+
+B2 UBS URL	: https://b2qathaiset.kgisl.com/login
+Username	: MAKERLOGI,	CHECKERLOGI,	BOTHLOGI,	ADMINLOGI
+Password	: Gss@12,	Gss@12,		Gss@12,		Gss@12
+
+
+B3 JPM URL	: https://b3qathaiset.kgisl.com/login
+Username	: MAKERLOGI,	CHECKERLOGI,	BOTHLOGI,	ADMINLOGI
+Password	: Gss@12,	Gss@12,		Gss@12,		Gss@12
+
+
+URL		: https://b1qathaiset.kgisl.com:444/login
+Username	: MAKERLOGESH,	CHECKERLOGI,	BOTHLOGI,	ADMINLOGI
+Password	: Gss@12,	Gss@12,		Gss@12,		Gss@12
+
+
+URL		: https://b2qathaiset.kgisl.com:444/login
+Username	: MAKERLOGI,	CHECKERLOGI,	BOTHLOGI,	ADMINLOGI
+Password	: Gss@12,	Gss@12,		Gss@12,		Gss@12
+
+
+
+Pre UAT Links
+=============
+
+JPM URL		: https://jpmuatthaiset.kgisl.com/login
+Username	: MAKERLOGI,	CHECKERLOGI,	BOTHLOGI,	ADMINLOGI
+Password	: Gss@12,	Gss@12,		Gss@12,		Gss@12
+
+CITI URL	: https://cstuatthaiset.kgisl.com/login
+Username	: MAKERLOGI,	CHECKERLOGI,	BOTHLOGI,	ADMINLOGI
+Password	: Gss@12,	Gss@12,		Gss@12,		Gss@12
+
+UBS URL		: https://ubsuatthaiset.kgisl.com/login
+Username	: MAKERLOGI,	CHECKERLOGI,	BOTHLOGI,	ADMINLOGI
+Password	: Gss@12,	Gss@12,		Gss@12,		Gss@12
+
+ADMIN URL	: https://adminuatthaiset.kgisl.com/login
+Username	: ADMINTHAI
+Password	: Gss@12
+
+
+UAT Links
+=========
+
+JPM URL		: https://jpmcmb-uat.settrade.set/login
+Username	: 
+Password	: 
+
+CITI URL	: https://cstcmb-uat.settrade.set/login
+Username	:
+Password	:
+
+UBS URL		: https://ubscmb-uat.settrade.set/login
+Username	: admin,	user2
+Password	: Kgisl@1,	Kgisl@12
+
+
+CM Back Office
+==============
+
+URL		: https://ind-cm-qa.kgisl.com/login
+Username	: MAKERLOGI,	CHECKERLOGI,	BOTHLOGI,	ADMINLOGI,	ADMIN
+Password	: Logi@1,	Logi@1,		Logi@1,		Logi@1,		Kgisl@1234
+
+
+URL		: https://172.25.90.13/login
+Username	: MAKERLOGI,	CHECKERLOGI,	BOTHLOGI,	ADMINLOGI
+Password	: Logi@1,	Logi@1,		Logi@1,		Logi@1,
+
+
+RMS
+===
+
+URL		: https://rmshssqa.kgisl.com/login
+Username	: LOGIMAK,	LOGICHK
+Password	: Kgisl@1234,	Kgisl@1234
